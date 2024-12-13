@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there! 👋 I am Igor
 
+Communications student | 42 Wolfsburg student | Aspiring software developer
+Welcome to my github profile! I am excited to share my journey with you!
+
+### About me
+I am a final year communications student, who is also very interested in tech world. My academic and professional journey has equipped me with a strong set of soft skills, while my hobbies and passions have equipped me with tech skills.
 <!--
 **imicovic/imicovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
