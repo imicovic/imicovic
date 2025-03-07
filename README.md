@@ -1,6 +1,7 @@
 ## Hi there! 👋 I am Igor
 
 Communications student | 42 Wolfsburg student | Aspiring software developer
+
 Welcome to my github profile! I am excited to share my journey with you!
 
 ### About me
