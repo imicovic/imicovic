@@ -24,8 +24,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-%23454e55?logo=nginx&logoColor=%23009420">
   <img alt="Static Badge" src="https://img.shields.io/badge/Arch-%23454e55?logo=archlinux&logoColor=%230b96e0">
 </details>
-<details>
-  <summary><b>Short bio:</b></summary>
+<b>Short bio:</b><br>
   <br>
   <p>After studying communications, working in hospitality and brushing up my "people skills"<br>
   I decided to enroll <a href="https://www.42network.org/" target="_blank">School 42</a>
@@ -38,4 +37,3 @@
     <li>Binary exploitation<br><br></li>
   </ul>
   </p>
-</details>
