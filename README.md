@@ -29,7 +29,7 @@
   <p>After studying communications, working in hospitality and brushing up my "people skills"<br>
   I decided to enroll <a href="https://www.42network.org/" target="_blank">School 42</a>
   in Wolfsburg, Germany. That's where I discovered my passion<br>
-  for low-level development. I am particularly interested in:<br><br>
+  for low-level development. I am particularly interested in:<br>
   <ul>
     <li>Linux internals<br></li>
     <li>Kernel development<br></li>
