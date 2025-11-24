@@ -1,27 +1,26 @@
-## Hi there! 👋 I am Igor
-
-Communications student | 42 Wolfsburg student | Aspiring software developer
-
-Welcome to my github profile! I am excited to share my journey with you!
-
-### About me
-I am a final year student of communication studies and a part-time student at 42 Wolfsburg coding school. My academic
-and professional journey has equipped me with an interesting combination of technical and soft skills.
-
-- 🔭 I'm currently working on a video game using C and raycasting
-- 📚 I'm currently learning C and C++ and exploring networking
-
-<!--
-**imicovic/imicovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>When I code I rely on:</b></summary>
+  </br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-%233c464d?style=flat&logo=c&logoColor=%23bac8d1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%233c464d?style=flat&logo=c%2B%2B&logoColor=%233e79f7">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Make-%23454e55?logo=make&logoColor=%233d56fc">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bash-%23454e55?logo=gnubash&logoColor=%2320c200">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23454e55?logo=git&logoColor=%23e88f00">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23454e55?logo=github&logoColor=%23ffffff"><br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/NeoVim-%23454e55?logo=neovim&logoColor=%2325ab16">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CLion-%23454e55?logo=clion&logoColor=%23b84880">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23454e55?logo=ubuntu&logoColor=%23f09c00">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GNU-%23454e55?logo=gnu&logoColor=white">
+</details>
+<details>
+  <summary><b>I am interested in:</b></summary>
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Rust-%23454e55?logo=rust&logoColor=%23e08e00">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Go-%23454e55?logo=go&logoColor=%2300dde0">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%23454e55?logo=docker&logoColor=%2300babd">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-%23454e55?logo=kubernetes&logoColor=%230082ad">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Lua-%23454e55?logo=lua&logoColor=%23003eb3">
+  <br><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23454e55?logo=python&logoColor=%23dbdb09">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-%23454e55?logo=nginx&logoColor=%23009420">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Arch-%23454e55?logo=archlinux&logoColor=%230b96e0">
+</details>
