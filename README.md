@@ -1,4 +1,4 @@
-  <summary><b>When I code I rely on:</b></summary>
+<b>When I code I rely on:</b>
   </br>
   <img alt="Static Badge" src="https://img.shields.io/badge/-%233c464d?style=flat&logo=c&logoColor=%23bac8d1">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%233c464d?style=flat&logo=c%2B%2B&logoColor=%233e79f7">
