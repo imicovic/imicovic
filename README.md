@@ -1,5 +1,5 @@
 <b>When I code I rely on:</b>
-  </br>
+  <br><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/-%233c464d?style=flat&logo=c&logoColor=%23bac8d1">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%233c464d?style=flat&logo=c%2B%2B&logoColor=%233e79f7">
   <img alt="Static Badge" src="https://img.shields.io/badge/Make-%23454e55?logo=make&logoColor=%233d56fc">
@@ -10,8 +10,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CLion-%23454e55?logo=clion&logoColor=%23b84880">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23454e55?logo=ubuntu&logoColor=%23f09c00">
   <img alt="Static Badge" src="https://img.shields.io/badge/GNU-%23454e55?logo=gnu&logoColor=white">
-  <summary><b>I am interested in:</b></summary>
-  <br>
+<b>I am interested in:</b>
+  <br><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Rust-%23454e55?logo=rust&logoColor=%23e08e00">
   <img alt="Static Badge" src="https://img.shields.io/badge/Go-%23454e55?logo=go&logoColor=%2300dde0">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%23454e55?logo=docker&logoColor=%2300babd">
