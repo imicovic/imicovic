@@ -14,7 +14,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23454e55?logo=ubuntu&logoColor=%23f09c00">
   <img alt="Static Badge" src="https://img.shields.io/badge/GNU-%23454e55?logo=gnu&logoColor=white">
 </details>
-<br><br><b>I am interested in:</b>
+<details>
+  <summary>
+    <b>I am interested in:</b>
+  </summary>
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Rust-%23454e55?logo=rust&logoColor=%23e08e00">
   <img alt="Static Badge" src="https://img.shields.io/badge/Go-%23454e55?logo=go&logoColor=%2300dde0">
@@ -24,6 +27,7 @@
   <br><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23454e55?logo=python&logoColor=%23dbdb09">
   <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-%23454e55?logo=nginx&logoColor=%23009420">
   <img alt="Static Badge" src="https://img.shields.io/badge/Arch-%23454e55?logo=archlinux&logoColor=%230b96e0">
+</details>
 <br><br><b>Short bio:</b>
   <br>
   <p>After studying communications, working in hospitality and brushing up my "people skills"<br>
