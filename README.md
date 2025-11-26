@@ -1,4 +1,3 @@
-<details>
   <summary><b>When I code I rely on:</b></summary>
   </br>
   <img alt="Static Badge" src="https://img.shields.io/badge/-%233c464d?style=flat&logo=c&logoColor=%23bac8d1">
@@ -11,8 +10,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CLion-%23454e55?logo=clion&logoColor=%23b84880">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23454e55?logo=ubuntu&logoColor=%23f09c00">
   <img alt="Static Badge" src="https://img.shields.io/badge/GNU-%23454e55?logo=gnu&logoColor=white">
-</details>
-<details>
   <summary><b>I am interested in:</b></summary>
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Rust-%23454e55?logo=rust&logoColor=%23e08e00">
@@ -23,7 +20,6 @@
   <br><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23454e55?logo=python&logoColor=%23dbdb09">
   <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-%23454e55?logo=nginx&logoColor=%23009420">
   <img alt="Static Badge" src="https://img.shields.io/badge/Arch-%23454e55?logo=archlinux&logoColor=%230b96e0">
-</details>
 <b>Short bio:</b><br>
   <br>
   <p>After studying communications, working in hospitality and brushing up my "people skills"<br>
