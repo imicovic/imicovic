@@ -29,17 +29,18 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Arch-%23454e55?logo=archlinux&logoColor=%230b96e0">
 </details>
 <b>Short bio:</b>
-  <br>
+  <br><br>
   <p>After studying communications, working in hospitality and brushing up my "people skills"<br>
   I decided to enroll <a href="https://www.42network.org/" target="_blank">School 42</a>
   in Wolfsburg, Germany. That's where I discovered my passion<br>
-  for low-level development. I am particularly interested in:<br>
+  for low-level development. I am particularly interested in:</p>
+  <br>
   <ul>
     <li>Linux internals<br></li>
     <li>Kernel development<br></li>
     <li>Compiler engineering</li>
-    <li>Binary exploitation<br><br></li>
+    <li>Binary exploitation</li>
     <li>Reverse engineering</li>
     <li>Vulnerability research</li>
   </ul>
-  </p>
+
