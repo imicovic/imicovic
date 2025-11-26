@@ -1,4 +1,7 @@
-<b>When I code I rely on:</b>
+<details>
+  <summary>
+    <b>When I code I rely on:</b>
+  </summary>
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/-%233c464d?style=flat&logo=c&logoColor=%23bac8d1">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%233c464d?style=flat&logo=c%2B%2B&logoColor=%233e79f7">
@@ -10,6 +13,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CLion-%23454e55?logo=clion&logoColor=%23b84880">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23454e55?logo=ubuntu&logoColor=%23f09c00">
   <img alt="Static Badge" src="https://img.shields.io/badge/GNU-%23454e55?logo=gnu&logoColor=white">
+</details>
 <br><br><b>I am interested in:</b>
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Rust-%23454e55?logo=rust&logoColor=%23e08e00">
