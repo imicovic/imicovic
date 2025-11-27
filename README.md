@@ -1,7 +1,7 @@
 <b>When I code I rely on:</b>
 <br><br>
-<img alt="Static Badge" src="https://img.shields.io/badge/-%233c464d?style=flat&logo=c&logoColor=%23bac8d1">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%233c464d?style=flat&logo=c%2B%2B&logoColor=%233e79f7">
+<img alt="Static Badge" src="https://img.shields.io/badge/-%23454e55?style=flat&logo=c&logoColor=%23bac8d1">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%23454e55?style=flat&logo=c%2B%2B&logoColor=%233e79f7">
 <img alt="Static Badge" src="https://img.shields.io/badge/Make-%23454e55?logo=make&logoColor=%233d56fc">
 <img alt="Static Badge" src="https://img.shields.io/badge/Bash-%23454e55?logo=gnubash&logoColor=%2320c200">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23454e55?logo=git&logoColor=%23e88f00">
@@ -15,10 +15,11 @@
 <br><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Rust-%23454e55?logo=rust&logoColor=%23e08e00">
 <img alt="Static Badge" src="https://img.shields.io/badge/Go-%23454e55?logo=go&logoColor=%2300dde0">
+<img alt="Static Badge" src="https://img.shields.io/badge/Zig-%23454e55?logo=zig">
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%23454e55?logo=docker&logoColor=%2300babd">
 <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-%23454e55?logo=kubernetes&logoColor=%230082ad">
-<img alt="Static Badge" src="https://img.shields.io/badge/Lua-%23454e55?logo=lua&logoColor=%23003eb3">
-<br><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23454e55?logo=python&logoColor=%23dbdb09">
+<br><img alt="Static Badge" src="https://img.shields.io/badge/Lua-%23454e55?logo=lua&logoColor=%23003eb3">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%23454e55?logo=python&logoColor=%23dbdb09">
 <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-%23454e55?logo=nginx&logoColor=%23009420">
 <img alt="Static Badge" src="https://img.shields.io/badge/Arch-%23454e55?logo=archlinux&logoColor=%230b96e0">
 <br><br>
