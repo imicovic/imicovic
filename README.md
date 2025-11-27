@@ -24,10 +24,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Arch-%23454e55?logo=archlinux&logoColor=%230b96e0">
 <br><br>
 <b>Short bio:</b>
-  <br>
   <p>After studying communications, working in hospitality and brushing up my "people skills" I decided to enroll <a href="https://www.42network.org/" target="_blank">School 42</a>
   in Wolfsburg, Germany. That's where I discovered my passion for low-level development. I am particularly interested in:</p>
-  <br>
   <ul>
     <li>Linux internals<br></li>
     <li>Kernel development<br></li>
