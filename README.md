@@ -33,7 +33,7 @@
     <li>Binary exploitation</li>
     <li>Reverse engineering</li>
     <li>Vulnerability research</li>
-  </ul>
-
-**Until I write a couple of articles of mine own, here is a couple I enjoyed reading**<br><br>
-[The method to epoll’s madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
+  </ul><br>
+<p></p>I am a huge fan of C and I really enjoy making stuff from scratch - which you can tell by looking at my <a href="https://github.com/imicovic/42_Progress">school projects</a></p>
+<b>Until I write a couple of articles of mine own, here is a couple I enjoyed reading</b><br><br>
+<a href="https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642">The method to epoll’s madness</a>
