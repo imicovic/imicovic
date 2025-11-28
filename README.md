@@ -35,3 +35,5 @@
     <li>Vulnerability research</li>
   </ul>
 
+**Until I write a couple of articles of mine own, here is a couple I enjoyed reading**<br><br>
+[The method to epoll’s madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
